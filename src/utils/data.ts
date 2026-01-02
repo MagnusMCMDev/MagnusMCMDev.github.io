@@ -61,7 +61,7 @@ const services = [
 
 const solutions = [
   {
-    title: "Visibility Dilemma",
+    title: "Visibility test",
     painPoint:
       "Your brand is drowning in the vast sea of social media, struggling to be seen by your target audience.",
     agitatepainPoint:
